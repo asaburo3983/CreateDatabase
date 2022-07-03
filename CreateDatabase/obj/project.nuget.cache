@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pfeh4Jali+1DDwvCMbDMEYjFc+jB/VedMT5Fd0+jzVu1/2ZPln8ZH49SXuslbZlQQsvmvPa3BsSexayMJDc/dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryose\\Desktop\\CreateDatabase\\CreateDatabase\\CreateDatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryose\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\ryose\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512",
+    "C:\\Users\\ryose\\.nuget\\packages\\system.reactive.windows.forms\\5.0.0\\system.reactive.windows.forms.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "パッケージ 'System.Reactive.Windows.Forms 5.0.0' はプロジェクトのターゲット フレームワーク '.NETCoreApp,Version=v3.1' ではなく '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' を使用して復元されました。このパッケージは、使用しているプロジェクトとの完全な互換性がない可能性があります。",
+      "libraryId": "System.Reactive.Windows.Forms",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
